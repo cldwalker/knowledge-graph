@@ -6,6 +6,7 @@
   {% if post-link %}
   </a>
   {% endif %}
+  {{logseq-tags|safe}}
 </h1>
 {{body | safe}}
 {% if discuss-link %}

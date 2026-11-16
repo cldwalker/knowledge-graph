@@ -2,8 +2,34 @@
         #_"You use the newest SHA here:"
         {:git/sha "47e38a55e4d6d7982812559807b9def7726faac0"}}
  :tasks
- {:requires ([quickblog.cli :as cli])
-  :init (def opts {:blog-title "REPL adventures"
-                   :blog-description "A blog about blogging quickly"})
+ {:requires ([babashka.fs :as fs]
+             [clojure.string :as str]
+             [quickblog.cli :as cli]
+             [selmer.filters :as filters])
+  :init (do
+          (def opts {:blog-title "cldwalker's Knowledge Graph"
+                     :blog-description "A link blog that uses an ontology"
+                     :blog-root "https://tagaholic.me/schema/"
+                     :blog-author "cldwalker"
+                     :about-link "https://tagaholic.me"
+                     :num-index-posts 10
+                     ;; Optional. Links to https://bsky.app/profile/HANDLE.bsky.social
+                     :bluesky-handle "cldwalker"})
+          ;; Labels an archive post link with its post's Entities header, which
+          ;; logseq-publish-graph writes for journals. Falls back to its date
+          (filters/add-filter!
+           :entities
+           (fn [{:keys [url date]}]
+             (let [post (fs/file "posts" (str (str/replace (fs/file-name url) (re-pattern "\\.html$") "") ".md"))
+                   n (some->> (when (fs/exists? post) (fs/read-all-lines post))
+                              (take-while (complement str/blank?))
+                              (some (fn [line] (second (re-matches (re-pattern "Entities:\\s*(\\d+)") line))))
+                              parse-long)]
+               (if n (str n (if (= 1 n) " entity" " entities")) date)))))
   quickblog {:doc "Start blogging quickly! Run `bb quickblog help` for details."
-             :task (cli/dispatch opts)}}}
+             ;; quickblog.cli drops opts that aren't quickblog options, so
+             ;; template-only opts are passed as args
+             :task (apply cli/dispatch opts
+                          (concat *command-line-args*
+                                  (when-let [handle (:bluesky-handle opts)]
+                                    ["--bluesky-handle" handle])))}}}
