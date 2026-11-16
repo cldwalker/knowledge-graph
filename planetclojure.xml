@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>cldwalker's Knowledge Graph</title>
+  <subtitle>A link blog that uses an ontology</subtitle>
+  <link href="https://tagaholic.me/schema/atom.xml" rel="self"/>
+  <link href="https://tagaholic.me/schema/"/>
+  <updated>2026-11-16T05:15:30+00:00</updated>
+  <id>https://tagaholic.me/schema/</id>
+  <author>
+    <name>cldwalker</name>
+  </author>
+</feed>

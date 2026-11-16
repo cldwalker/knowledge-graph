@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>cldwalker's Knowledge Graph</title>
+  <subtitle>A link blog that uses an ontology</subtitle>
+  <link href="https://tagaholic.me/schema/atom.xml" rel="self"/>
+  <link href="https://tagaholic.me/schema/"/>
+  <updated>2026-11-16T05:15:30+00:00</updated>
+  <id>https://tagaholic.me/schema/</id>
+  <author>
+    <name>cldwalker</name>
+  </author>
+  <entry>
+    <id>https://tagaholic.me/schema/2026-10-28.html</id>
+    <link href="https://tagaholic.me/schema/2026-10-28.html"/>
+    <title>Oct 28th, 2026</title>
+    <updated>2026-10-28T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><ul>
+<li><a href="https://indyweek.com/news/environment/durhams-tree-canopy-continues-to-grow/">Despite Development, Durham’s Tree Canopy Continues to Grow</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/Article">#Article</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Great to hear <a href="durham.html">Durham</a>&#39;s tree canopy is growing and at 54.7% in 2024. Even if we are <a class="external" target="_blank" rel="noopener" href="https://indyweek.com/firstperson/opinions/op-ed-durham-parks-are-literally-the-worst/">ranked last for top 100 city parks</a>, the trees make up for it</li></ul></li>
+</ul></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/2026-10-26.html</id>
+    <link href="https://tagaholic.me/schema/2026-10-26.html"/>
+    <title>Oct 26th, 2026</title>
+    <updated>2026-10-26T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><ul>
+<li><a href="https://bold-nc.org/">Better Outdoor Lights Durham: B O L D</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/WebSite">#WebSite</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Fred leading an effort to improve street lighting in <a href="durham.html">Durham</a> via Bike Durham</li></ul></li>
+</ul></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/2026-10-25.html</id>
+    <link href="https://tagaholic.me/schema/2026-10-25.html"/>
+    <title>Oct 25th, 2026</title>
+    <updated>2026-10-25T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><ul>
+<li><a href="https://www.durhamnc.gov/5438/HomelessnessStrategic-Framework">Homelessness Strategic Framework | Durham, NC</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/WebPage">#WebPage</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Good info on <a href="durham.html">Durham</a>&#39;s approach to homelessness. Appreciate the effort but wish there was more numbers</li></ul></li>
+</ul></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/2026-10-22.html</id>
+    <link href="https://tagaholic.me/schema/2026-10-22.html"/>
+    <title>Oct 22nd, 2026</title>
+    <updated>2026-10-22T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><ul>
+<li><a href="https://www.sway.co/">Sway: Vote Together</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/WebSite">#WebSite</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Interesting way to socialize voting e.g. <a class="external" target="_blank" rel="noopener" href="https://www.sway.co/bullcityanna">https://www.sway.co/bullcityanna</a></li></ul></li>
+</ul></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/brasil.html</id>
+    <link href="https://tagaholic.me/schema/brasil.html"/>
+    <title>Brasil</title>
+    <updated>2026-10-15T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/hillsborough.html</id>
+    <link href="https://tagaholic.me/schema/hillsborough.html"/>
+    <title>Hillsborough</title>
+    <updated>2026-10-15T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/2026-10-15.html</id>
+    <link href="https://tagaholic.me/schema/2026-10-15.html"/>
+    <title>Oct 15th, 2026</title>
+    <updated>2026-10-15T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><ul>
+<li><a href="https://ignite-burn.com/">Ignite! Burn</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/Festival">#Festival</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Burning Man like festival every Memorial Day. 2 hrs away in <a href="virginia.html">Virginia</a></li></ul></li>
+<li><a href="https://www.flushfest.org/">FlushFest Festival</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/Festival">#Festival</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Quirky music festival in <a href="hillsborough.html">Hillsborough</a> that supports sewer systems in <a href="brasil.html">Brasil</a></li></ul></li>
+</ul></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/virginia.html</id>
+    <link href="https://tagaholic.me/schema/virginia.html"/>
+    <title>Virginia</title>
+    <updated>2026-10-15T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/2026-09-19.html</id>
+    <link href="https://tagaholic.me/schema/2026-09-19.html"/>
+    <title>Sep 19th, 2026</title>
+    <updated>2026-09-19T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><ul>
+<li><a href="https://www.team587.org/">High School Robotics Team 587, The HedgeHogs</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/Organization">#Organization</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Met them at a festival. Available to any Orange County high school student. Wish we had something like this in <a href="durham.html">Durham</a></li></ul></li>
+<li><a href="https://dbourdeau.github.io/cyphersolver/index.html">Unsolved Historical Ciphers</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/WebSite">#WebSite</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Pretty cool to see historical cyphers being solved by <a href="https://tagaholic.me/schema/LargeLanguageModel.html">LLM</a>s</li></ul></li>
+<li><a href="https://john.hartnup.uk/2026/06/07/ai-event-posters.html">AI-generated posters don’t have to be horrible</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/BlogPosting">#BlogPosting</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: <a href="https://tagaholic.me/schema/LargeLanguageModel.html">LLM</a> prompt advice for AI posters worked for me. Just give more specific input on styles</li></ul></li>
+<li><a href="https://cinematicarts.duke.edu/screensociety">Screen/Society | Cinematic Arts at Duke</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/WebPage">#WebPage</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Provides multiple free weekly indie movies to watch each week at Rubenstein Theater. They just had Boots Riley do a Q+A!</li></ul></li>
+</ul></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/durham-pride-parade.html</id>
+    <link href="https://tagaholic.me/schema/durham-pride-parade.html"/>
+    <title>Durham Pride Parade</title>
+    <updated>2026-09-17T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><div class="page-properties"><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Full history at <a class="external" target="_blank" rel="noopener" href="https://www.lgbtqcenterofdurham.org/pride-history/">https://www.lgbtqcenterofdurham.org/pride-history/</a></li><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/url">url</a></span>: <a class="external" target="_blank" rel="noopener" href="https://www.lgbtqcenterofdurham.org/program/pride/">https://www.lgbtqcenterofdurham.org/program/pride/</a></li></ul></div></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/2026-09-17.html</id>
+    <link href="https://tagaholic.me/schema/2026-09-17.html"/>
+    <title>Sep 17th, 2026</title>
+    <updated>2026-09-17T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><ul>
+<li><a href="https://9thstreetjournal.org/2025/09/19/new-historic-marker-how-a-deadly-attack-spurred-ncs-first-pride-march-in-durham/">New historic marker: How a deadly attack spurred NC’s first Pride march in Durham</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/Article">#Article</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: <a href="durham-pride-parade.html">Durham Pride Parade</a> started in memory of a hate crime that occurred on April 12, 1981. men attacked sunbathers and one of them, Ronald died because of his injuries. The first parade was called &quot;Our Day Out&quot; had 260 people and was the first pride parade in <a href="north-carolina.html">NC</a></li></ul></li>
+</ul></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/2026-09-15.html</id>
+    <link href="https://tagaholic.me/schema/2026-09-15.html"/>
+    <title>Sep 15th, 2026</title>
+    <updated>2026-09-15T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><ul>
+<li><a href="https://www.wral.com/news/local/brain-eating-amoeba-durham-september-2026/">‘brain-eating’ amoeba infection kills teen in Durham</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/Article">#Article</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: scary to read about this being linked to El Futuro&#39;s water feature</li><li><span class="property-name"><a href="https://tagaholic.me/schema/referrerURL.html">referrerURL</a></span>: <a class="external" target="_blank" rel="noopener" href="https://old.reddit.com/r/bullcity/comments/1wh8mu7/brain_eating_amoeba/">https://old.reddit.com/r/bullcity/comments/1wh8mu7/brain_eating_amoeba/</a></li></ul></li>
+</ul></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/everything-the-universe.html</id>
+    <link href="https://tagaholic.me/schema/everything-the-universe.html"/>
+    <title>Everything &amp; the Universe</title>
+    <updated>2026-09-14T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><div class="page-properties"><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/url">url</a></span>: <a class="external" target="_blank" rel="noopener" href="https://www.imdb.com/title/tt20866934/">https://www.imdb.com/title/tt20866934/</a></li></ul></div></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/john-adams-buchanan-house.html</id>
+    <link href="https://tagaholic.me/schema/john-adams-buchanan-house.html"/>
+    <title>John Adams Buchanan House</title>
+    <updated>2026-09-14T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><div class="page-properties"><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Located at 1810 Cedar Street. Also the location of the possible Peterson murder made famous by <a href="the-staircase.html">The Staircase</a>!</li><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/url">url</a></span>: <a class="external" target="_blank" rel="noopener" href="https://www.opendurham.org/buildings/1810-cedar-st-john-adams-buchanan-house">https://www.opendurham.org/buildings/1810-cedar-st-john-adams-buchanan-house</a></li></ul></div></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/the-durham-hotel.html</id>
+    <link href="https://tagaholic.me/schema/the-durham-hotel.html"/>
+    <title>The Durham Hotel</title>
+    <updated>2026-09-14T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/the-handmaid-s-tale.html</id>
+    <link href="https://tagaholic.me/schema/the-handmaid-s-tale.html"/>
+    <title>The HandMaid's Tale</title>
+    <updated>2026-09-14T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><div class="page-properties"><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Primarily shot in <a href="durham.html">Durham</a> at <a href="john-adams-buchanan-house.html">John Adams Buchanan House</a></li><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/url">url</a></span>: <a class="external" target="_blank" rel="noopener" href="https://www.imdb.com/title/tt0099731/">https://www.imdb.com/title/tt0099731/</a></li></ul></div></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/the-staircase.html</id>
+    <link href="https://tagaholic.me/schema/the-staircase.html"/>
+    <title>The Staircase</title>
+    <updated>2026-09-14T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><div class="page-properties"><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Documentary about a murder in <a href="durham.html">Durham</a>. Only documentary I know that then had a documentary about the documentary lol</li><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/url">url</a></span>: <a class="external" target="_blank" rel="noopener" href="https://www.imdb.com/title/tt11324406/">https://www.imdb.com/title/tt11324406/</a></li></ul></div></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/2026-09-11.html</id>
+    <link href="https://tagaholic.me/schema/2026-09-11.html"/>
+    <title>Sep 11th, 2026</title>
+    <updated>2026-09-11T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><ul>
+<li><a href="https://www.unslop.news/">unslop.news</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/WebSite">#WebSite</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Non-AI HN homepage which still links to its comments</li></ul></li>
+</ul></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/durham-food-hall.html</id>
+    <link href="https://tagaholic.me/schema/durham-food-hall.html"/>
+    <title>Durham Food Hall</title>
+    <updated>2026-09-10T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/hyperlocal.html</id>
+    <link href="https://tagaholic.me/schema/hyperlocal.html"/>
+    <title>Hyperlocal</title>
+    <updated>2026-09-10T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><div class="page-properties"><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/url">url</a></span>: <a class="external" target="_blank" rel="noopener" href="https://www.hyperlocaldispatch.com/">https://www.hyperlocaldispatch.com/</a></li></ul></div></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/kelsey-graywill.html</id>
+    <link href="https://tagaholic.me/schema/kelsey-graywill.html"/>
+    <title>Kelsey Graywill</title>
+    <updated>2026-09-10T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><div class="page-properties"><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/url">url</a></span>: <a class="external" target="_blank" rel="noopener" href="https://www.klgraywill.com/">https://www.klgraywill.com/</a></li></ul></div></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/2026-09-10.html</id>
+    <link href="https://tagaholic.me/schema/2026-09-10.html"/>
+    <title>Sep 10th, 2026</title>
+    <updated>2026-09-10T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><ul>
+<li><a href="https://rivendell.dmitrybrant.com/relativity/">Show HN: What if the speed of light was 5 km/h</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/WebPage">#WebPage</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Pretty cool demo of relativistic effects - length contraction, time dilation, Terrell rotation, etc.</li><li><span class="property-name"><a href="https://tagaholic.me/schema/referrerURL.html">referrerURL</a></span>: <a class="external" target="_blank" rel="noopener" href="https://news.ycombinator.com/item?id=49637385">https://news.ycombinator.com/item?id=49637385</a></li></ul></li>
+</ul></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/atomic-clock-brewing.html</id>
+    <link href="https://tagaholic.me/schema/atomic-clock-brewing.html"/>
+    <title>Atomic Clock Brewing</title>
+    <updated>2026-09-09T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><div class="page-properties"><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/url">url</a></span>: <a class="external" target="_blank" rel="noopener" href="https://www.instagram.com/atomicclockbrewing/">https://www.instagram.com/atomicclockbrewing/</a></li></ul></div></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/dolly-parton.html</id>
+    <link href="https://tagaholic.me/schema/dolly-parton.html"/>
+    <title>Dolly Parton</title>
+    <updated>2026-09-09T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><div class="page-properties"><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/url">url</a></span>: <a class="external" target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/Dolly_Parton">https://en.wikipedia.org/wiki/Dolly_Parton</a></li></ul></div></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/sugar-hill-records.html</id>
+    <link href="https://tagaholic.me/schema/sugar-hill-records.html"/>
+    <title>Sugar Hill Records</title>
+    <updated>2026-09-09T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><div class="page-properties"><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Offices were in <a href="durham.html">Durham</a> where the <a href="atomic-clock-brewing.html">Atomic Clock Brewing</a> is now</li><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/url">url</a></span>: <a class="external" target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/Sugar_Hill_Records_(bluegrass_label">https://en.wikipedia.org/wiki/Sugar_Hill_Records_(bluegrass_label</a>)</li></ul></div></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/research-triangle.html</id>
+    <link href="https://tagaholic.me/schema/research-triangle.html"/>
+    <title>Research Triangle</title>
+    <updated>2026-09-08T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><div class="page-properties"><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/url">url</a></span>: <a class="external" target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/Research_Triangle">https://en.wikipedia.org/wiki/Research_Triangle</a></li></ul></div></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/2026-09-07.html</id>
+    <link href="https://tagaholic.me/schema/2026-09-07.html"/>
+    <title>Sep 7th, 2026</title>
+    <updated>2026-09-07T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><ul>
+<li><a href="https://lgps.democracyoutloud.org/">Legislative Response Team for Democracy Out Loud politics</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/WebSite">#WebSite</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Useful way to watch, learn and get involved with <a href="north-carolina.html">NC</a> bills</li></ul></li>
+</ul></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/2026-09-02.html</id>
+    <link href="https://tagaholic.me/schema/2026-09-02.html"/>
+    <title>Sep 2nd, 2026</title>
+    <updated>2026-09-02T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><ul>
+<li><a href="https://triangle-shows.net/">Live music across the triangle on one calendar</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/WebSite">#WebSite</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Handy calendar for music in the <a href="research-triangle.html">Triangle</a></li><li><span class="property-name"><a href="https://tagaholic.me/schema/referrerURL.html">referrerURL</a></span>: <a class="external" target="_blank" rel="noopener" href="https://old.reddit.com/r/bullcity/comments/1w5a6jn/a_lil_concert_calendar_for_durham_and_the_rest_of/">https://old.reddit.com/r/bullcity/comments/1w5a6jn/a_lil_concert_calendar_for_durham_and_the_rest_of/</a></li></ul></li>
+<li><a href="https://gisthost.github.io/?6a77bc41a81718c6aaa10d4ab243c59f">Cosmic Gravity Vortex Demo</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/WebPage">#WebPage</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Cool html demo made by simonw and gemini 3.8. Wish I could hook this up to a kinect like at hopscotch</li><li><span class="property-name"><a href="https://tagaholic.me/schema/referrerURL.html">referrerURL</a></span>: <a class="external" target="_blank" rel="noopener" href="https://news.ycombinator.com/item?id=49538953">https://news.ycombinator.com/item?id=49538953</a></li></ul></li>
+</ul></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/2026-08-31.html</id>
+    <link href="https://tagaholic.me/schema/2026-08-31.html"/>
+    <title>Aug 31st, 2026</title>
+    <updated>2026-08-31T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><ul>
+<li><a href="https://indyweek.com/news/culture/music/dolly-parton-barry-poss-sugar-hill-records-durham-nc/">Where Dolly Parton Found a ‘Little Spot of Heaven’ in Durham</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/Article">#Article</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Cool that <a href="sugar-hill-records.html">Sugar Hill Records</a> signed <a href="dolly-parton.html">Dolly Parton</a> in 1999</li></ul></li>
+<li><a href="https://indyweek.com/news/culture/hyperlocal-zines-durham/">Hyperlocal Zines Celebrate Community While Building It, Too</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/Article">#Article</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: <a href="kelsey-graywill.html">Kelsey Graywill</a> created <a href="hyperlocal.html">Hyperlocal</a>  and the hyperlocal vending machine at the <a href="durham-food-hall.html">Durham Food Hall</a>. The vending machine sells zines and <a class="external" target="_blank" rel="noopener" href="https://www.hyperlocaldispatch.com/hyperlocal-durham">passports can be downloaded for free</a></li></ul></li>
+</ul></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/2026-08-28.html</id>
+    <link href="https://tagaholic.me/schema/2026-08-28.html"/>
+    <title>Aug 28th, 2026</title>
+    <updated>2026-08-28T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><ul>
+<li><a href="https://www.orbify.eu/">Orbify - Next-Generation Navigation Visualization</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/WebPage">#WebPage</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Demo of Inception style curved map for google-map like directions. It&#39;s more cool than useful</li></ul></li>
+</ul></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/2026-08-26.html</id>
+    <link href="https://tagaholic.me/schema/2026-08-26.html"/>
+    <title>Aug 26th, 2026</title>
+    <updated>2026-08-26T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><ul>
+<li><a href="https://glenwoodreview.substack.com/">Glenwood Review</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/Blog">#Blog</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Detailed and interesting forecasting and predictions for <a href="north-carolina.html">NC</a> <a href="politics.html">politics</a></li></ul></li>
+</ul></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/2026-08-18.html</id>
+    <link href="https://tagaholic.me/schema/2026-08-18.html"/>
+    <title>Aug 18th, 2026</title>
+    <updated>2026-08-18T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><ul>
+<li><a href="https://existentialcomics.com/">Socratic Religion - Existential Comics</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/ComicSeries">#ComicSeries</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Hilarious, philosophy jokes like <a class="external" target="_blank" rel="noopener" href="https://existentialcomics.com/comic/668">https://existentialcomics.com/comic/668</a></li></ul></li>
+</ul></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/2026-08-16.html</id>
+    <link href="https://tagaholic.me/schema/2026-08-16.html"/>
+    <title>Aug 16th, 2026</title>
+    <updated>2026-08-16T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><ul>
+<li id="6a8211af-39b8-4ff0-8e71-7ddc74cc5208"><a href="https://indyweek.com/news/culture/screen/forgotten-handmaid-s-tale-movie-filmed-durham-missing-link-classic-novel-hulu-hit/">A Forgotten The Handmaid’s Tale Movie Filmed in Durham Is the Missing Link Between Classic Novel and Hulu Hit</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/Article">#Article</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Talks about an older <a href="the-handmaid-s-tale.html">The HandMaid&#39;s Tale</a>. The <a href="american-tobacco-campus.html">American Tobacco Campus</a>, a gym on Duke’s campus, and a bathroom at Northern High School are all scenes in the movie. Also amusingly had a hanging scene in front of Duke Chapel but didn&#39;t tell the chapel&#39;s dean</li></ul></li>
+</ul></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/2026-08-15.html</id>
+    <link href="https://tagaholic.me/schema/2026-08-15.html"/>
+    <title>Aug 15th, 2026</title>
+    <updated>2026-08-15T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><ul>
+<li id="6a80e51a-7b1a-41d9-9633-8d4b28b25a81"><a href="https://indyweek.com/news/culture/screen/filmed-in-durham-a-new-movie-about-cosmic-coincidences-has-flown-under-the-radar/">Filmed in Durham, a New Movie About Cosmic Coincidences Has Flown Under the Radar</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/Article">#Article</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Describes <a href="everything-the-universe.html">Everything &amp; the Universe</a>, a little known <a href="durham.html">Durham</a> based indie flic. Cool to hear the director that the director lived in Durham as a grad student. Film has a bunch of scenes around town - chatting at <a href="the-durham-hotel.html">The Durham Hotel</a>, hanging out the Golden Belt, &quot;fries at the Federal, shop for suit jackets at Dolly’s, and swivel in salon chairs at Moshi Moshi, among gathering at nearly a dozen other local spots&quot;. Also funny that the painting that got peed on was given back to the artist, who works at 5 Points Gallery.</li></ul></li>
+</ul></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/museum-of-durham-history.html</id>
+    <link href="https://tagaholic.me/schema/museum-of-durham-history.html"/>
+    <title>Museum of Durham History</title>
+    <updated>2026-08-09T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><div class="page-properties"><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/url">url</a></span>: <a class="external" target="_blank" rel="noopener" href="https://www.museumofdurhamhistory.org/">https://www.museumofdurhamhistory.org/</a></li></ul></div></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/2026-08-08.html</id>
+    <link href="https://tagaholic.me/schema/2026-08-08.html"/>
+    <title>Aug 8th, 2026</title>
+    <updated>2026-08-08T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><ul>
+<li><a href="https://indyweek.com/news/education/higher-education/before-moon-photos-christina-koch-honed-photography-skills-ncsu/">Before She Took Historic Moon Photos, Christina Koch Honed Her Skills in N.C.</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/Article">#Article</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Describes <a href="christina-koch.html">Christina Koch</a> ties to <a href="north-carolina.html">North Carolina</a>. Cool that she went to <a href="n-c-school-of-science-and-mathematics.html">N.C. School of Science and Mathematics</a></li></ul></li>
+</ul></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/christina-koch.html</id>
+    <link href="https://tagaholic.me/schema/christina-koch.html"/>
+    <title>Christina Koch</title>
+    <updated>2026-08-08T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><div class="page-properties"><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Astronaut with <a href="north-carolina.html">North Carolina</a> school ties. Has the <a class="external" target="_blank" rel="noopener" href="https://www.cbsnews.com/news/christina-koch-sets-record-longest-single-space-flight-by-woman-astronaut/">longest spaceflight by a woman</a>, participated in the <a class="external" target="_blank" rel="noopener" href="https://www.nasa.gov/blogs/spacestation/2019/10/18/nasa-astronauts-wrap-up-historic-all-woman-spacewalk/">first all-female spacewalk</a>, and became the <a class="external" target="_blank" rel="noopener" href="https://abcnews.com/GMA/Living/christina-koch-1st-female-nasa-astronaut-travel-moon/story?id=131649383">first woman to orbit the moon</a>.</li><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/url">url</a></span>: <a class="external" target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/Christina_Koch">https://en.wikipedia.org/wiki/Christina_Koch</a></li></ul></div></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/n-c-school-of-science-and-mathematics.html</id>
+    <link href="https://tagaholic.me/schema/n-c-school-of-science-and-mathematics.html"/>
+    <title>N.C. School of Science and Mathematics</title>
+    <updated>2026-08-08T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><div class="page-properties"><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/url">url</a></span>: <a class="external" target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/N.C._School_of_Science_and_Mathematics">https://en.wikipedia.org/wiki/N.C._School_of_Science_and_Mathematics</a></li></ul></div></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/aaron-sanchez-guerra.html</id>
+    <link href="https://tagaholic.me/schema/aaron-sanchez-guerra.html"/>
+    <title>Aaron Sánchez-Guerra</title>
+    <updated>2026-08-02T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><div class="page-properties"><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/url">url</a></span>: <a class="external" target="_blank" rel="noopener" href="https://www.wunc.org/people/aaron-sanchez-guerra">https://www.wunc.org/people/aaron-sanchez-guerra</a></li></ul></div></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/geo-group.html</id>
+    <link href="https://tagaholic.me/schema/geo-group.html"/>
+    <title>GEO Group</title>
+    <updated>2026-08-02T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><div class="page-properties"><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: One of the largest, private prison operators in the <a href="united-states.html">United States</a></li><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/url">url</a></span>: <a class="external" target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/GEO_Group">https://en.wikipedia.org/wiki/GEO_Group</a></li></ul></div></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/project-hail-mary.html</id>
+    <link href="https://tagaholic.me/schema/project-hail-mary.html"/>
+    <title>Project Hail Mary</title>
+    <updated>2026-08-02T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><div class="page-properties"><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/url">url</a></span>: <a class="external" target="_blank" rel="noopener" href="https://www.goodreads.com/en/book/show/54493401-project-hail-mary">https://www.goodreads.com/en/book/show/54493401-project-hail-mary</a></li></ul></div></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/rivers-correctional-institute.html</id>
+    <link href="https://tagaholic.me/schema/rivers-correctional-institute.html"/>
+    <title>Rivers Correctional Institute</title>
+    <updated>2026-08-02T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><div class="page-properties"><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Only private prison in <a href="north-carolina.html">North Carolina</a>. Run by <a href="geo-group.html">GEO Group</a></li><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/url">url</a></span>: <a class="external" target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/Rivers_Correctional_Institution">https://en.wikipedia.org/wiki/Rivers_Correctional_Institution</a></li></ul></div></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/united-states.html</id>
+    <link href="https://tagaholic.me/schema/united-states.html"/>
+    <title>United States</title>
+    <updated>2026-08-02T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><div class="page-properties"><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/url">url</a></span>: <a class="external" target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/United_States">https://en.wikipedia.org/wiki/United_States</a></li></ul></div></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/american-tobacco-campus.html</id>
+    <link href="https://tagaholic.me/schema/american-tobacco-campus.html"/>
+    <title>American Tobacco Campus</title>
+    <updated>2026-08-01T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><div class="page-properties"><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/url">url</a></span>: <a class="external" target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/American_Tobacco_Historic_District">https://en.wikipedia.org/wiki/American_Tobacco_Historic_District</a></li></ul></div></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/2026-08-01.html</id>
+    <link href="https://tagaholic.me/schema/2026-08-01.html"/>
+    <title>Aug 1st, 2026</title>
+    <updated>2026-08-01T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><ul>
+<li><a href="https://www.durhamnc.gov/1141/Reclaimed-Water">Reclaimed Water in Durham</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/WebPage">#WebPage</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: 250+ gallons non-drinking available for free to anyone who takes training</li><li><span class="property-name"><a href="https://tagaholic.me/schema/referrerURL.html">referrerURL</a></span>: <a class="external" target="_blank" rel="noopener" href="https://www.reddit.com/r/bullcity/comments/1u7ohym/comment/os1vfxh/">https://www.reddit.com/r/bullcity/comments/1u7ohym/comment/os1vfxh/</a></li></ul></li>
+<li><a href="https://www.heraldsun.com/news/business/article316133926.html">Interactive map reveals North Carolina&#39;s zoning limits</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/Article">#Article</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Describes <a href="2026-08-01.html#6a6d72de-c7a6-48b0-b188-c386412a4312">National Zoning Atlas</a> as a useful tool to see how zoning is contributing to the affordability crisis. Only &quot;21% of the state’s residential land allows multifamily housing&quot;</li></ul></li>
+<li id="6a6d72de-c7a6-48b0-b188-c386412a4312"><a href="https://www.zoningatlas.org/atlas">National Zoning Atlas</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/WebSite">#WebSite</a></span></li>
+<li><a href="https://indyweek.com/news/durham-budget-shortfall-property-tax/">How $4B Came Off Durham ’s Tax Rolls - and Blew a Hole in the City Budget</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/Article">#Article</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Disappointing to hear commercial got treated much better than residential with last property tax hike. Wish author had shared more of how data was calculated</li><li><span class="property-name"><a href="https://tagaholic.me/schema/referrerURL.html">referrerURL</a></span>: <a class="external" target="_blank" rel="noopener" href="https://old.reddit.com/r/bullcity/comments/1u417km/fund_mismanagement_by_city_leaders/">https://old.reddit.com/r/bullcity/comments/1u417km/fund_mismanagement_by_city_leaders/</a></li></ul></li>
+</ul></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/eno-fest.html</id>
+    <link href="https://tagaholic.me/schema/eno-fest.html"/>
+    <title>Eno Fest</title>
+    <updated>2026-07-31T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><div class="page-properties"><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/url">url</a></span>: <a class="external" target="_blank" rel="noopener" href="https://enofest.org/">https://enofest.org/</a></li></ul></div></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/eno-river.html</id>
+    <link href="https://tagaholic.me/schema/eno-river.html"/>
+    <title>Eno River</title>
+    <updated>2026-07-31T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><div class="page-properties"><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/url">url</a></span>: <a class="external" target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/Eno_River">https://en.wikipedia.org/wiki/Eno_River</a></li></ul></div></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/2026-07-31.html</id>
+    <link href="https://tagaholic.me/schema/2026-07-31.html"/>
+    <title>Jul 31st, 2026</title>
+    <updated>2026-07-31T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><ul>
+<li><a href="https://www.festival76nc.org/">NC Bicentennial FolkLife Festival</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/Festival">#Festival</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Describes its fascinating history with a lot of great visuals. This festival had ~100k! people, opened <a href="west-point-on-the-eno.html">West Point on the Eno</a> and was a precursor to <a href="eno-fest.html">Eno Fest</a>. Also has good facts on how important <a href="margaret-nygard.html">Margaret Nygard</a> was to the <a href="eno-river.html">Eno River</a></li></ul></li>
+<li><a href="https://john.fun/">John.fun</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/WebSite">#WebSite</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Fun little games, interactive articles and tools. Reminds me of neal.fun but not as many kid-friendly ones</li></ul></li>
+</ul></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/margaret-nygard.html</id>
+    <link href="https://tagaholic.me/schema/margaret-nygard.html"/>
+    <title>Margaret Nygard</title>
+    <updated>2026-07-31T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><div class="page-properties"><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/url">url</a></span>: <a class="external" target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/Margaret_Nygard">https://en.wikipedia.org/wiki/Margaret_Nygard</a></li></ul></div></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/west-point-on-the-eno.html</id>
+    <link href="https://tagaholic.me/schema/west-point-on-the-eno.html"/>
+    <title>West Point on the Eno</title>
+    <updated>2026-07-31T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><div class="page-properties"><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/url">url</a></span>: <a class="external" target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/West_Point_on_the_Eno">https://en.wikipedia.org/wiki/West_Point_on_the_Eno</a></li></ul></div></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/durham-coworking.html</id>
+    <link href="https://tagaholic.me/schema/durham-coworking.html"/>
+    <title>Durham Coworking</title>
+    <updated>2026-07-30T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/gabriel-eng-goetz.html</id>
+    <link href="https://tagaholic.me/schema/gabriel-eng-goetz.html"/>
+    <title>Gabriel Eng Goetz</title>
+    <updated>2026-07-30T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><div class="page-properties"><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Artist who&#39;s done awesome murals in <a href="durham.html">Durham</a></li><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/url">url</a></span>: <a class="external" target="_blank" rel="noopener" href="https://www.gabegets.com/">https://www.gabegets.com/</a></li></ul></div></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/2026-07-30.html</id>
+    <link href="https://tagaholic.me/schema/2026-07-30.html"/>
+    <title>Jul 30th, 2026</title>
+    <updated>2026-07-30T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><ul>
+<li><a href="https://www.durhamnc.gov/5322/Birchwood-Park-Public-Art-Project">Birchwood Park Public Art Project in Durham</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/WebPage">#WebPage</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Cool basketball court coming to Birchwood thanks to talented <a href="gabriel-eng-goetz.html">Gabriel Eng Goetz</a></li></ul></li>
+</ul></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/north-carolina.html</id>
+    <link href="https://tagaholic.me/schema/north-carolina.html"/>
+    <title>North Carolina</title>
+    <updated>2026-07-30T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><div class="page-properties"><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/url">url</a></span>: <a class="external" target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/North_Carolina">https://en.wikipedia.org/wiki/North_Carolina</a></li></ul></div></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/ncdot.html</id>
+    <link href="https://tagaholic.me/schema/ncdot.html"/>
+    <title>NCDOT</title>
+    <updated>2026-07-25T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><div class="page-properties"><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Department of Transportation for <a href="north-carolina.html">North Carolina</a></li><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/url">url</a></span>: <a class="external" target="_blank" rel="noopener" href="https://www.ncdot.gov/">https://www.ncdot.gov/</a></li></ul></div></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/2026-07-24.html</id>
+    <link href="https://tagaholic.me/schema/2026-07-24.html"/>
+    <title>Jul 24th, 2026</title>
+    <updated>2026-07-24T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><ul>
+<li><a href="https://www.ncdot.gov/projects/ProjectsNearMe/default.aspx?location=county&amp;id=durham">Projects Near Me | ncdot.gov</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/WebSite">#WebSite</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Useful map of <a href="ncdot.html">NCDOT</a> projects</li></ul></li>
+</ul></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/2026-07-17.html</id>
+    <link href="https://tagaholic.me/schema/2026-07-17.html"/>
+    <title>Jul 17th, 2026</title>
+    <updated>2026-07-17T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><ul>
+<li><a href="https://www.beeready.buzz/">BeeReady | CPR for Kids - Training Through Youth Sports</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/Organization">#Organization</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Teaching kids cpr and emergency response training in <a href="durham.html">Durham</a></li></ul></li>
+</ul></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/2026-06-25.html</id>
+    <link href="https://tagaholic.me/schema/2026-06-25.html"/>
+    <title>Jun 25th, 2026</title>
+    <updated>2026-06-25T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><ul>
+<li><a href="https://www.wunc.org/term/news/2026-06-22/peter-klopfer-duke-biologist-lemur-center-civil-rights-activist">Peter Klopfer died</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/Article">#Article</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Inspiring write up on life of <a href="peter-klopfer.html">Peter Klopfer</a></li></ul></li>
+</ul></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/peter-klopfer.html</id>
+    <link href="https://tagaholic.me/schema/peter-klopfer.html"/>
+    <title>Peter Klopfer</title>
+    <updated>2026-06-25T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><div class="page-properties"><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Co-founder of Lemur center and Friends school. Lived a life full of standing up for his morals w.r.t. nonviolence and civil rights. Amazing he was still getting arrested in his 80s</li><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/url">url</a></span>: <a class="external" target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/Peter_Klopfer">https://en.wikipedia.org/wiki/Peter_Klopfer</a></li></ul></div></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/2026-06-24.html</id>
+    <link href="https://tagaholic.me/schema/2026-06-24.html"/>
+    <title>Jun 24th, 2026</title>
+    <updated>2026-06-24T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><ul>
+<li id="6a3beb30-60dc-425c-9504-aa8135f771c5"><a href="https://heywanna.app/discover?city=Durham">HeyWanna</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/SoftwareApplication">#SoftwareApplication</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Geolocated list of places to check out. Made by a <a href="durham.html">Durham</a> native who wants it to work well for our area</li><li><span class="property-name"><a href="https://tagaholic.me/schema/referrerURL.html">referrerURL</a></span>: <a class="external" target="_blank" rel="noopener" href="https://old.reddit.com/r/bullcity/comments/1udwo9v/grew_up_in_durham_and_i_built_a_little_web_app_to/">https://old.reddit.com/r/bullcity/comments/1udwo9v/grew_up_in_durham_and_i_built_a_little_web_app_to/</a></li></ul></li>
+</ul></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/2026-06-12.html</id>
+    <link href="https://tagaholic.me/schema/2026-06-12.html"/>
+    <title>Jun 12th, 2026</title>
+    <updated>2026-06-12T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><ul>
+<li id="6a2c31d2-ac4c-4cfc-8ae7-cedbf9add88b"><a href="https://www.flickr.com/photos/dtv8/with/55324910423">City of Durham Flickr account</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/WebPage">#WebPage</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Has useful albums like Lake Michie drought - <a class="external" target="_blank" rel="noopener" href="https://www.flickr.com/photos/dtv8/albums/72177720334137054/">https://www.flickr.com/photos/dtv8/albums/72177720334137054/</a></li></ul></li>
+</ul></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/2026-06-10.html</id>
+    <link href="https://tagaholic.me/schema/2026-06-10.html"/>
+    <title>Jun 10th, 2026</title>
+    <updated>2026-06-10T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><ul>
+<li id="6a29ac50-76f2-4595-8f57-caa430f9a244"><a href="https://durham-waterways.sajidsan.com/">Durham Hidden Waterways</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/WebSite">#WebSite</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Interactive map of streams above and below ground in downtown <a href="durham.html">Durham</a></li><li><span class="property-name"><a href="https://tagaholic.me/schema/referrerURL.html">referrerURL</a></span>: <a class="external" target="_blank" rel="noopener" href="https://www.reddit.com/r/bullcity/comments/1u1dc0p/did_you_know_there_are_like_a_100_buried/">https://www.reddit.com/r/bullcity/comments/1u1dc0p/did_you_know_there_are_like_a_100_buried/</a></li></ul></li>
+<li><a href="https://hiddenhistorian.com/adventures/f/american-tobacco-campus-beneath-bull-river-lets-explore">Zodiac Drain: Historic brick tunnels beneath Downtown Durham</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/Article">#Article</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Elaborate tunnels under <a href="american-tobacco-campus.html">American Tobacco Campus</a></li></ul></li>
+<li id="6a29ad2d-efe7-4dcb-bb23-152da41b70db"><a href="https://ycv.branch.vote/setup">Find what&#39;s on your ballot | Vote informed with NC Voter</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/WebSite">#WebSite</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Helpful tool for seeing who&#39;s on your ballot. Can put in address and start reading about each candidate and even making choices now</li><li><span class="property-name">status</span>: todo</li></ul></li>
+</ul></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/2026-06-02.html</id>
+    <link href="https://tagaholic.me/schema/2026-06-02.html"/>
+    <title>Jun 2nd, 2026</title>
+    <updated>2026-06-02T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><ul>
+<li id="6a1f0e0b-d24f-49c8-ba98-8748c2412554"><a href="https://www.wunc.org/race-class-communities/2026-03-24/proposed-ice-detention-facilities-face-local-opposition">From rural towns to urban centers, proposed ICE detention facilities face local opposition</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/Article">#Article</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/author">author</a></span>: <a href="aaron-sanchez-guerra.html">Aaron Sánchez-Guerra</a></li><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Describes opposition to <a href="rivers-correctional-institute.html">Rivers Correctional Institute</a> possibly becoming an ICE faciilty. That prison was closed in 2021 and article links to a federal report citing high rates of abuse</li></ul></li>
+</ul></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/2026-05-29.html</id>
+    <link href="https://tagaholic.me/schema/2026-05-29.html"/>
+    <title>May 29th, 2026</title>
+    <updated>2026-05-29T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><ul>
+<li><a href="https://soundrivers.org/swim-guide/">Mid NC Swim Guide</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/WebPage">#WebPage</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Has water quality checks for rivers in mid NC including 4 spots on the Eno!</li><li><span class="property-name"><a href="https://tagaholic.me/schema/referrerURL.html">referrerURL</a></span>: <a class="external" target="_blank" rel="noopener" href="https://old.reddit.com/r/bullcity/comments/1tr4ij3/swim_guide_now_covers_the_eno/">https://old.reddit.com/r/bullcity/comments/1tr4ij3/swim_guide_now_covers_the_eno/</a></li></ul></li>
+</ul></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/2026-05-28.html</id>
+    <link href="https://tagaholic.me/schema/2026-05-28.html"/>
+    <title>May 28th, 2026</title>
+    <updated>2026-05-28T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><ul>
+<li><a href="https://9thstreetjournal.org/2026/05/22/a-search-for-the-creator-of-bull-city-hands/">A search for the creator of ‘Bull City hands’</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/Article">#Article</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Good history dive on bull horns origin. <a class="external" target="_blank" rel="noopener" href="https://www.reddit.com/r/bullcity/comments/1figy1f/shameless_appropriation/">https://www.reddit.com/r/bullcity/comments/1figy1f/shameless_appropriation/</a> is the reddit article referenced. Bummer that Freelon&#39;s song isn&#39;t easily found</li></ul></li>
+<li><a href="https://www.durhamnc.gov/866/Recycling-Guidelines">Durham Waste Wizard</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/WebPage">#WebPage</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Search for what do with an item - throw out or recycle</li></ul></li>
+<li><a href="https://hallucinate.site/">Hallucinate – Massively Multiplayer Online Rave</a><span class="block-tags"><a href="https://tagaholic.me/schema/Egame.html">#Egame</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Minecraft-esque rave</li><li><span class="property-name"><a href="https://tagaholic.me/schema/referrerURL.html">referrerURL</a></span>: <a class="external" target="_blank" rel="noopener" href="https://news.ycombinator.com/item?id=48304260">https://news.ycombinator.com/item?id=48304260</a></li></ul></li>
+</ul></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/durham.html</id>
+    <link href="https://tagaholic.me/schema/durham.html"/>
+    <title>Durham</title>
+    <updated>2026-05-22T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><div class="page-properties"><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/url">url</a></span>: <a class="external" target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/Durham,_North_Carolina">https://en.wikipedia.org/wiki/Durham,_North_Carolina</a></li></ul></div></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/2026-05-22.html</id>
+    <link href="https://tagaholic.me/schema/2026-05-22.html"/>
+    <title>May 22nd, 2026</title>
+    <updated>2026-05-22T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><ul>
+<li><a href="https://www.durhamnc.gov/1214/Current-Data">Durham water related data</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/WebPage">#WebPage</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Surprised that we currently on have 4-6 months of water on reserve. Drought related plans close to this page</li></ul></li>
+</ul></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/2026-05-21.html</id>
+    <link href="https://tagaholic.me/schema/2026-05-21.html"/>
+    <title>May 21st, 2026</title>
+    <updated>2026-05-21T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><ul>
+<li id="6a0f6b94-6480-48f9-9b6f-028608438174"><a href="https://valhovey.github.io/gaia-mary/">Hail Mary - Star Map</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/WebPage">#WebPage</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Sweet 3D, interactive, zoomable map of <a href="project-hail-mary.html">Project Hail Mary</a> trajectory</li><li><span class="property-name"><a href="https://tagaholic.me/schema/referrerURL.html">referrerURL</a></span>: <a class="external" target="_blank" rel="noopener" href="https://news.ycombinator.com/item?id=48225297">https://news.ycombinator.com/item?id=48225297</a></li></ul></li>
+</ul></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/2026-05-18.html</id>
+    <link href="https://tagaholic.me/schema/2026-05-18.html"/>
+    <title>May 18th, 2026</title>
+    <updated>2026-05-18T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><ul>
+<li>Filled out <a class="external" target="_blank" rel="noopener" href="https://durhambrtvision.com/spring-2026-survey">https://durhambrtvision.com/spring-2026-survey</a></li>
+<li><a href="https://www.ben-evans.com/s/2026-Spring-AI.pdf">AI eats the world - 2026 Spring</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/PresentationDigitalDocument">#PresentationDigitalDocument</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Surprised that data center has surpassed office construction, that FAAM capex is worth 70% of oil. slide on YC startups being 80%+ AI is sad</li><li><span class="property-name"><a href="https://tagaholic.me/schema/referrerURL.html">referrerURL</a></span>: <a class="external" target="_blank" rel="noopener" href="https://news.ycombinator.com/item?id=48179021">https://news.ycombinator.com/item?id=48179021</a></li></ul></li>
+</ul></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/2026-05-15.html</id>
+    <link href="https://tagaholic.me/schema/2026-05-15.html"/>
+    <title>May 15th, 2026</title>
+    <updated>2026-05-15T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><ul>
+<li><a href="https://www.justsecurity.org/112792/trump-administrations-state-power-big-picture/">Trump Administration’s Use of State Power Against Media: Keeping Track of the Big Picture</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/BlogPosting">#BlogPosting</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Updates on media attacks by Trump administration. Has a nice radial visualization linking to several articles</li></ul></li>
+<li><a href="https://www.museumofdurhamhistory.org/visit/events/detail/exhibit-opening-to-love-and-live-free-the-1986-mayoral-recall-battle-and-the-fight-for-lgbtq-rights-in-durham">Exhibit Opening – To Love and Live Free: The 1986 Mayoral Recall Fight and the Origins of Durham Pride</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/WebPage">#WebPage</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: 40 years ago in May 1986, <a href="durham.html">Durham</a> Mayor Wib Gulley faced a recall for supporting Anti-discrimination week. Exhibit on this is at <a href="museum-of-durham-history.html">Museum of Durham History</a></li></ul></li>
+</ul></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/2026-05-14.html</id>
+    <link href="https://tagaholic.me/schema/2026-05-14.html"/>
+    <title>May 14th, 2026</title>
+    <updated>2026-05-14T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><ul>
+<li><a href="https://springhillfarm.net/">Spring Hill Farm Apiary</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/Corporation">#Corporation</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Apiary that sells awesome infused honey. Was at <a class="external" target="_blank" rel="noopener" href="https://www.shakorihillsgrassroots.org/">https://www.shakorihillsgrassroots.org/</a> this past weekend. Ginger turmeric was pretty awesome</li></ul></li>
+</ul></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/2026-05-12.html</id>
+    <link href="https://tagaholic.me/schema/2026-05-12.html"/>
+    <title>May 12th, 2026</title>
+    <updated>2026-05-12T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><ul>
+<li><a href="https://www.epicfurious.com">Epic Furious politics</a><span class="block-tags"><a href="https://tagaholic.me/schema/Egame.html">#Egame</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Fun RPG for cathartic laughs for current crap administration</li></ul></li>
+<li><a href="https://portwatch.imf.org/pages/cc317ba850e34c4dadbead6f7b336fb1">Straight of Hormuz Transit History</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/WebPage">#WebPage</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Pretty drastic dropoff since 2/28 crisis. Some crossings are missing due to ships going GPS dark per <a class="external" target="_blank" rel="noopener" href="https://insights.windward.ai/">https://insights.windward.ai/</a></li></ul></li>
+</ul></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/politics.html</id>
+    <link href="https://tagaholic.me/schema/politics.html"/>
+    <title>politics</title>
+    <updated>2026-05-12T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div></div>]]></content>
+  </entry>
+  <entry>
+    <id>https://tagaholic.me/schema/2026-05-10.html</id>
+    <link href="https://tagaholic.me/schema/2026-05-10.html"/>
+    <title>May 10th, 2026</title>
+    <updated>2026-05-10T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<div><ul>
+<li><a href="https://coveryourtracks.eff.org/">Cover Your Tracks</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/WebSite">#WebSite</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Helpful education on browser tracking and fingerprinting. My browser had a unique 45 day fingerprint</li></ul></li>
+</ul></div>]]></content>
+  </entry>
+</feed>
