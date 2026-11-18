@@ -4,7 +4,7 @@
   <subtitle>A link blog that uses an ontology</subtitle>
   <link href="https://tagaholic.me/schema/atom.xml" rel="self"/>
   <link href="https://tagaholic.me/schema/"/>
-  <updated>2026-11-16T05:15:30+00:00</updated>
+  <updated>2026-11-18T04:47:32+00:00</updated>
   <id>https://tagaholic.me/schema/</id>
   <author>
     <name>cldwalker</name>
@@ -50,14 +50,14 @@
     <link href="https://tagaholic.me/schema/brasil.html"/>
     <title>Brasil</title>
     <updated>2026-10-15T23:59:59+00:00</updated>
-    <content type="html"><![CDATA[<div></div>]]></content>
+    <content type="html"><![CDATA[<div><div class="page-properties"><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/url">url</a></span>: <a class="external" target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/Brasil">https://en.wikipedia.org/wiki/Brasil</a></li></ul></div></div>]]></content>
   </entry>
   <entry>
     <id>https://tagaholic.me/schema/hillsborough.html</id>
     <link href="https://tagaholic.me/schema/hillsborough.html"/>
     <title>Hillsborough</title>
     <updated>2026-10-15T23:59:59+00:00</updated>
-    <content type="html"><![CDATA[<div></div>]]></content>
+    <content type="html"><![CDATA[<div><div class="page-properties"><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/url">url</a></span>: <a class="external" target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/Hillsborough,_North_Carolina">https://en.wikipedia.org/wiki/Hillsborough,_North_Carolina</a></li></ul></div></div>]]></content>
   </entry>
   <entry>
     <id>https://tagaholic.me/schema/2026-10-15.html</id>
@@ -74,7 +74,7 @@
     <link href="https://tagaholic.me/schema/virginia.html"/>
     <title>Virginia</title>
     <updated>2026-10-15T23:59:59+00:00</updated>
-    <content type="html"><![CDATA[<div></div>]]></content>
+    <content type="html"><![CDATA[<div><div class="page-properties"><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/url">url</a></span>: <a class="external" target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/Virginia">https://en.wikipedia.org/wiki/Virginia</a></li></ul></div></div>]]></content>
   </entry>
   <entry>
     <id>https://tagaholic.me/schema/2026-09-19.html</id>
@@ -132,7 +132,7 @@
     <link href="https://tagaholic.me/schema/the-durham-hotel.html"/>
     <title>The Durham Hotel</title>
     <updated>2026-09-14T23:59:59+00:00</updated>
-    <content type="html"><![CDATA[<div></div>]]></content>
+    <content type="html"><![CDATA[<div><div class="page-properties"><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/url">url</a></span>: <a class="external" target="_blank" rel="noopener" href="https://www.thedurham.com/">https://www.thedurham.com/</a></li></ul></div></div>]]></content>
   </entry>
   <entry>
     <id>https://tagaholic.me/schema/the-handmaid-s-tale.html</id>
@@ -162,7 +162,7 @@
     <link href="https://tagaholic.me/schema/durham-food-hall.html"/>
     <title>Durham Food Hall</title>
     <updated>2026-09-10T23:59:59+00:00</updated>
-    <content type="html"><![CDATA[<div></div>]]></content>
+    <content type="html"><![CDATA[<div><div class="page-properties"><ul class="block-properties"><li><span class="property-name"><a href="https://tagaholic.me/schema/meta.html">meta</a></span>: This would fit better under a FoodVenue class for a collection of FoodEstablishments</li><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/url">url</a></span>: <a class="external" target="_blank" rel="noopener" href="https://durhamfoodhall.com/">https://durhamfoodhall.com/</a></li></ul></div></div>]]></content>
   </entry>
   <entry>
     <id>https://tagaholic.me/schema/hyperlocal.html</id>
@@ -609,7 +609,7 @@
     <link href="https://tagaholic.me/schema/politics.html"/>
     <title>politics</title>
     <updated>2026-05-12T23:59:59+00:00</updated>
-    <content type="html"><![CDATA[<div></div>]]></content>
+    <content type="html"><![CDATA[<div><div class="page-properties"><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/url">url</a></span>: <a class="external" target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/Politics">https://en.wikipedia.org/wiki/Politics</a></li></ul></div></div>]]></content>
   </entry>
   <entry>
     <id>https://tagaholic.me/schema/2026-05-10.html</id>
