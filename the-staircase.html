@@ -37,7 +37,7 @@
       <div class="wrapper">
         <div class="site-nav">
           <a class="page-link" href="archive.html">Archive</a>
-          <a class="page-link" href="tags/index.html">Tags</a>
+          <a class="page-link" href="classes.html">Classes</a>
           
 	  <a class="page-link" href="atom.xml">
             Feed
@@ -66,9 +66,10 @@
   
   The Staircase
   
-  <span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/TVSeries">#TVSeries</a></span>
+  <span class="block-tags"><a href="TVSeries.html">#TVSeries</a></span>
 </h1>
 <div><div class="page-properties"><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Documentary about a murder in <a href="durham.html">Durham</a>. Only documentary I know that then had a documentary about the documentary lol</li><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/url">url</a></span>: <a class="external" target="_blank" rel="noopener" href="https://www.imdb.com/title/tt11324406/">https://www.imdb.com/title/tt11324406/</a></li></ul></div></div>
+
 
 <p><i>Published: 2026-09-14</i></p>
 
@@ -91,5 +92,20 @@
       </div>
       
     </div>
+    <script>
+      // Sorts a table.sortable by the column whose header is clicked, toggling its order
+      document.querySelectorAll("table.sortable th").forEach((th, i) => {
+        th.addEventListener("click", () => {
+          const asc = th.dataset.order !== "asc";
+          th.parentElement.querySelectorAll("th").forEach(h => delete h.dataset.order);
+          th.dataset.order = asc ? "asc" : "desc";
+          const tbody = th.closest("table").tBodies[0];
+          const text = row => row.cells[i].textContent.trim();
+          [...tbody.rows]
+            .sort((a, b) => (asc ? 1 : -1) * text(a).localeCompare(text(b), undefined, {numeric: true}))
+            .forEach(row => tbody.appendChild(row));
+        });
+      });
+    </script>
   </body>
 </html>

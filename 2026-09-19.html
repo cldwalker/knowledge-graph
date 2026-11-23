@@ -33,7 +33,7 @@
       <div class="wrapper">
         <div class="site-nav">
           <a class="page-link" href="archive.html">Archive</a>
-          <a class="page-link" href="tags/index.html">Tags</a>
+          <a class="page-link" href="classes.html">Classes</a>
           
 	  <a class="page-link" href="atom.xml">
             Feed
@@ -65,11 +65,12 @@
   
 </h1>
 <div><ul>
-<li><a href="https://www.team587.org/">High School Robotics Team 587, The HedgeHogs</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/Organization">#Organization</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Met them at a festival. Available to any Orange County high school student. Wish we had something like this in <a href="durham.html">Durham</a></li></ul></li>
-<li><a href="https://dbourdeau.github.io/cyphersolver/index.html">Unsolved Historical Ciphers</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/WebSite">#WebSite</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Pretty cool to see historical cyphers being solved by <a href="https://tagaholic.me/schema/LargeLanguageModel.html">LLM</a>s</li></ul></li>
-<li><a href="https://john.hartnup.uk/2026/06/07/ai-event-posters.html">AI-generated posters don’t have to be horrible</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/BlogPosting">#BlogPosting</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: <a href="https://tagaholic.me/schema/LargeLanguageModel.html">LLM</a> prompt advice for AI posters worked for me. Just give more specific input on styles</li></ul></li>
-<li><a href="https://cinematicarts.duke.edu/screensociety">Screen/Society | Cinematic Arts at Duke</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/WebPage">#WebPage</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Provides multiple free weekly indie movies to watch each week at Rubenstein Theater. They just had Boots Riley do a Q+A!</li></ul></li>
+<li id="b-0"><a href="https://www.team587.org/">High School Robotics Team 587, The HedgeHogs</a><span class="block-tags"><a href="Organization.html">#Organization</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Met them at a festival. Available to any Orange County high school student. Wish we had something like this in <a href="durham.html">Durham</a></li></ul></li>
+<li id="b-1"><a href="https://dbourdeau.github.io/cyphersolver/index.html">Unsolved Historical Ciphers</a><span class="block-tags"><a href="WebSite.html">#WebSite</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Pretty cool to see historical cyphers being solved by <a href="https://tagaholic.me/schema/LargeLanguageModel.html">LLM</a>s</li></ul></li>
+<li id="b-2"><a href="https://john.hartnup.uk/2026/06/07/ai-event-posters.html">AI-generated posters don’t have to be horrible</a><span class="block-tags"><a href="BlogPosting.html">#BlogPosting</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: <a href="https://tagaholic.me/schema/LargeLanguageModel.html">LLM</a> prompt advice for AI posters worked for me. Just give more specific input on styles</li></ul></li>
+<li id="b-3"><a href="https://cinematicarts.duke.edu/screensociety">Screen/Society | Cinematic Arts at Duke</a><span class="block-tags"><a href="WebPage.html">#WebPage</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Provides multiple free weekly indie movies to watch each week at Rubenstein Theater. They just had Boots Riley do a Q+A!</li></ul></li>
 </ul></div>
+
 
 <p><i>Published: 2026-09-19</i></p>
 
@@ -92,5 +93,20 @@
       </div>
       
     </div>
+    <script>
+      // Sorts a table.sortable by the column whose header is clicked, toggling its order
+      document.querySelectorAll("table.sortable th").forEach((th, i) => {
+        th.addEventListener("click", () => {
+          const asc = th.dataset.order !== "asc";
+          th.parentElement.querySelectorAll("th").forEach(h => delete h.dataset.order);
+          th.dataset.order = asc ? "asc" : "desc";
+          const tbody = th.closest("table").tBodies[0];
+          const text = row => row.cells[i].textContent.trim();
+          [...tbody.rows]
+            .sort((a, b) => (asc ? 1 : -1) * text(a).localeCompare(text(b), undefined, {numeric: true}))
+            .forEach(row => tbody.appendChild(row));
+        });
+      });
+    </script>
   </body>
 </html>

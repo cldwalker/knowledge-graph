@@ -33,7 +33,7 @@
       <div class="wrapper">
         <div class="site-nav">
           <a class="page-link" href="archive.html">Archive</a>
-          <a class="page-link" href="tags/index.html">Tags</a>
+          <a class="page-link" href="classes.html">Classes</a>
           
 	  <a class="page-link" href="atom.xml">
             Feed
@@ -65,9 +65,10 @@
   
 </h1>
 <div><ul>
-<li><a href="https://www.justsecurity.org/112792/trump-administrations-state-power-big-picture/">Trump Administration’s Use of State Power Against Media: Keeping Track of the Big Picture</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/BlogPosting">#BlogPosting</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Updates on media attacks by Trump administration. Has a nice radial visualization linking to several articles</li></ul></li>
-<li><a href="https://www.museumofdurhamhistory.org/visit/events/detail/exhibit-opening-to-love-and-live-free-the-1986-mayoral-recall-battle-and-the-fight-for-lgbtq-rights-in-durham">Exhibit Opening – To Love and Live Free: The 1986 Mayoral Recall Fight and the Origins of Durham Pride</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/WebPage">#WebPage</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: 40 years ago in May 1986, <a href="durham.html">Durham</a> Mayor Wib Gulley faced a recall for supporting Anti-discrimination week. Exhibit on this is at <a href="museum-of-durham-history.html">Museum of Durham History</a></li></ul></li>
+<li id="b-0"><a href="https://www.justsecurity.org/112792/trump-administrations-state-power-big-picture/">Trump Administration’s Use of State Power Against Media: Keeping Track of the Big Picture</a><span class="block-tags"><a href="BlogPosting.html">#BlogPosting</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Updates on media attacks by Trump administration. Has a nice radial visualization linking to several articles</li></ul></li>
+<li id="b-1"><a href="https://www.museumofdurhamhistory.org/visit/events/detail/exhibit-opening-to-love-and-live-free-the-1986-mayoral-recall-battle-and-the-fight-for-lgbtq-rights-in-durham">Exhibit Opening – To Love and Live Free: The 1986 Mayoral Recall Fight and the Origins of Durham Pride</a><span class="block-tags"><a href="WebPage.html">#WebPage</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: 40 years ago in May 1986, <a href="durham.html">Durham</a> Mayor Wib Gulley faced a recall for supporting Anti-discrimination week. Exhibit on this is at <a href="museum-of-durham-history.html">Museum of Durham History</a></li></ul></li>
 </ul></div>
+
 
 <p><i>Published: 2026-05-15</i></p>
 
@@ -90,5 +91,20 @@
       </div>
       
     </div>
+    <script>
+      // Sorts a table.sortable by the column whose header is clicked, toggling its order
+      document.querySelectorAll("table.sortable th").forEach((th, i) => {
+        th.addEventListener("click", () => {
+          const asc = th.dataset.order !== "asc";
+          th.parentElement.querySelectorAll("th").forEach(h => delete h.dataset.order);
+          th.dataset.order = asc ? "asc" : "desc";
+          const tbody = th.closest("table").tBodies[0];
+          const text = row => row.cells[i].textContent.trim();
+          [...tbody.rows]
+            .sort((a, b) => (asc ? 1 : -1) * text(a).localeCompare(text(b), undefined, {numeric: true}))
+            .forEach(row => tbody.appendChild(row));
+        });
+      });
+    </script>
   </body>
 </html>

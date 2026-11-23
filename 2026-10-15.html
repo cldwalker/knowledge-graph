@@ -33,7 +33,7 @@
       <div class="wrapper">
         <div class="site-nav">
           <a class="page-link" href="archive.html">Archive</a>
-          <a class="page-link" href="tags/index.html">Tags</a>
+          <a class="page-link" href="classes.html">Classes</a>
           
 	  <a class="page-link" href="atom.xml">
             Feed
@@ -65,9 +65,10 @@
   
 </h1>
 <div><ul>
-<li><a href="https://ignite-burn.com/">Ignite! Burn</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/Festival">#Festival</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Burning Man like festival every Memorial Day. 2 hrs away in <a href="virginia.html">Virginia</a></li></ul></li>
-<li><a href="https://www.flushfest.org/">FlushFest Festival</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/Festival">#Festival</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Quirky music festival in <a href="hillsborough.html">Hillsborough</a> that supports sewer systems in <a href="brasil.html">Brasil</a></li></ul></li>
+<li id="b-0"><a href="https://ignite-burn.com/">Ignite! Burn</a><span class="block-tags"><a href="Festival.html">#Festival</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Burning Man like festival every Memorial Day. 2 hrs away in <a href="virginia.html">Virginia</a></li></ul></li>
+<li id="b-1"><a href="https://www.flushfest.org/">FlushFest Festival</a><span class="block-tags"><a href="Festival.html">#Festival</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Quirky music festival in <a href="hillsborough.html">Hillsborough</a> that supports sewer systems in <a href="brasil.html">Brasil</a></li></ul></li>
 </ul></div>
+
 
 <p><i>Published: 2026-10-15</i></p>
 
@@ -90,5 +91,20 @@
       </div>
       
     </div>
+    <script>
+      // Sorts a table.sortable by the column whose header is clicked, toggling its order
+      document.querySelectorAll("table.sortable th").forEach((th, i) => {
+        th.addEventListener("click", () => {
+          const asc = th.dataset.order !== "asc";
+          th.parentElement.querySelectorAll("th").forEach(h => delete h.dataset.order);
+          th.dataset.order = asc ? "asc" : "desc";
+          const tbody = th.closest("table").tBodies[0];
+          const text = row => row.cells[i].textContent.trim();
+          [...tbody.rows]
+            .sort((a, b) => (asc ? 1 : -1) * text(a).localeCompare(text(b), undefined, {numeric: true}))
+            .forEach(row => tbody.appendChild(row));
+        });
+      });
+    </script>
   </body>
 </html>

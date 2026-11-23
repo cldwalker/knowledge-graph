@@ -107,3 +107,52 @@ ul.block-properties {
 .property-name {
   font-weight: 600;
 }
+
+table.sortable {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table.sortable th, table.sortable td {
+  text-align: left;
+  vertical-align: top;
+  padding: 0.3em 0.5em;
+  border-bottom: 1px solid #e8e8e8;
+}
+
+table.sortable th {
+  cursor: pointer;
+  user-select: none;
+  white-space: nowrap;
+}
+
+table.sortable th[data-order="asc"]::after {
+  content: " ▲";
+}
+
+table.sortable th[data-order="desc"]::after {
+  content: " ▼";
+}
+
+table.sortable td:last-child {
+  white-space: nowrap;
+}
+
+.breadcrumbs {
+  font-size: 0.9em;
+  margin-bottom: 0.75em;
+}
+
+ul.class-hierarchy, ul.class-hierarchy ul {
+  list-style: none;
+  padding-left: 1.25em;
+}
+
+ul.class-hierarchy summary {
+  cursor: pointer;
+}
+
+/* Lines up leaf classes with the names of classes that have a disclosure marker */
+ul.class-hierarchy li > a {
+  margin-left: 1.1em;
+}

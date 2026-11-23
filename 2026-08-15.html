@@ -33,7 +33,7 @@
       <div class="wrapper">
         <div class="site-nav">
           <a class="page-link" href="archive.html">Archive</a>
-          <a class="page-link" href="tags/index.html">Tags</a>
+          <a class="page-link" href="classes.html">Classes</a>
           
 	  <a class="page-link" href="atom.xml">
             Feed
@@ -65,8 +65,9 @@
   
 </h1>
 <div><ul>
-<li id="6a80e51a-7b1a-41d9-9633-8d4b28b25a81"><a href="https://indyweek.com/news/culture/screen/filmed-in-durham-a-new-movie-about-cosmic-coincidences-has-flown-under-the-radar/">Filmed in Durham, a New Movie About Cosmic Coincidences Has Flown Under the Radar</a><span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/Article">#Article</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Describes <a href="everything-the-universe.html">Everything &amp; the Universe</a>, a little known <a href="durham.html">Durham</a> based indie flic. Cool to hear the director that the director lived in Durham as a grad student. Film has a bunch of scenes around town - chatting at <a href="the-durham-hotel.html">The Durham Hotel</a>, hanging out the Golden Belt, &quot;fries at the Federal, shop for suit jackets at Dolly’s, and swivel in salon chairs at Moshi Moshi, among gathering at nearly a dozen other local spots&quot;. Also funny that the painting that got peed on was given back to the artist, who works at 5 Points Gallery.</li></ul></li>
+<li id="6a80e51a-7b1a-41d9-9633-8d4b28b25a81"><a href="https://indyweek.com/news/culture/screen/filmed-in-durham-a-new-movie-about-cosmic-coincidences-has-flown-under-the-radar/">Filmed in Durham, a New Movie About Cosmic Coincidences Has Flown Under the Radar</a><span class="block-tags"><a href="Article.html">#Article</a></span><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/description">description</a></span>: Describes <a href="everything-the-universe.html">Everything &amp; the Universe</a>, a little known <a href="durham.html">Durham</a> based indie flic. Cool to hear the director that the director lived in Durham as a grad student. Film has a bunch of scenes around town - chatting at <a href="the-durham-hotel.html">The Durham Hotel</a>, hanging out the Golden Belt, &quot;fries at the Federal, shop for suit jackets at Dolly’s, and swivel in salon chairs at Moshi Moshi, among gathering at nearly a dozen other local spots&quot;. Also funny that the painting that got peed on was given back to the artist, who works at 5 Points Gallery.</li></ul></li>
 </ul></div>
+
 
 <p><i>Published: 2026-08-15</i></p>
 
@@ -89,5 +90,20 @@
       </div>
       
     </div>
+    <script>
+      // Sorts a table.sortable by the column whose header is clicked, toggling its order
+      document.querySelectorAll("table.sortable th").forEach((th, i) => {
+        th.addEventListener("click", () => {
+          const asc = th.dataset.order !== "asc";
+          th.parentElement.querySelectorAll("th").forEach(h => delete h.dataset.order);
+          th.dataset.order = asc ? "asc" : "desc";
+          const tbody = th.closest("table").tBodies[0];
+          const text = row => row.cells[i].textContent.trim();
+          [...tbody.rows]
+            .sort((a, b) => (asc ? 1 : -1) * text(a).localeCompare(text(b), undefined, {numeric: true}))
+            .forEach(row => tbody.appendChild(row));
+        });
+      });
+    </script>
   </body>
 </html>

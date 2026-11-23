@@ -33,7 +33,7 @@
       <div class="wrapper">
         <div class="site-nav">
           <a class="page-link" href="archive.html">Archive</a>
-          <a class="page-link" href="tags/index.html">Tags</a>
+          <a class="page-link" href="classes.html">Classes</a>
           
 	  <a class="page-link" href="atom.xml">
             Feed
@@ -62,9 +62,10 @@
   
   United States
   
-  <span class="block-tags"><a class="external" target="_blank" rel="noopener" href="https://schema.org/Country">#Country</a></span>
+  <span class="block-tags"><a href="Country.html">#Country</a></span>
 </h1>
 <div><div class="page-properties"><ul class="block-properties"><li><span class="property-name"><a class="external" target="_blank" rel="noopener" href="https://schema.org/url">url</a></span>: <a class="external" target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/United_States">https://en.wikipedia.org/wiki/United_States</a></li></ul></div></div>
+
 
 <p><i>Published: 2026-08-02</i></p>
 
@@ -87,5 +88,20 @@
       </div>
       
     </div>
+    <script>
+      // Sorts a table.sortable by the column whose header is clicked, toggling its order
+      document.querySelectorAll("table.sortable th").forEach((th, i) => {
+        th.addEventListener("click", () => {
+          const asc = th.dataset.order !== "asc";
+          th.parentElement.querySelectorAll("th").forEach(h => delete h.dataset.order);
+          th.dataset.order = asc ? "asc" : "desc";
+          const tbody = th.closest("table").tBodies[0];
+          const text = row => row.cells[i].textContent.trim();
+          [...tbody.rows]
+            .sort((a, b) => (asc ? 1 : -1) * text(a).localeCompare(text(b), undefined, {numeric: true}))
+            .forEach(row => tbody.appendChild(row));
+        });
+      });
+    </script>
   </body>
 </html>
