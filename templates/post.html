@@ -12,8 +12,9 @@
 {% if discuss-link %}
 <p>Discuss this post <a href="{{discuss}}">here</a>.</p>
 {% endif %}
-<p><i>Published: {{date}}</i></p>
-{% if tags %}
+{% comment %}Preview posts are logseq-publish-graph's class pages, which aren't dated publications{% endcomment %}
+{% if not preview %}<p><i>Published: {{date}}</i></p>{% endif %}
+{% if tags|not-empty %}
 <p>
   <i>
   Tagged:
